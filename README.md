@@ -11,7 +11,7 @@ Advantages of using TestNG-
 4. Parallel Execution
 5. Reporting
 
-# cuke-test Automation Framework features
+# Automation Framework features
 WebDrivers :
 - Chrome, Firefox
 - The choice of WebDriver can be changed by changing 'browser' property value from testng.xml file
